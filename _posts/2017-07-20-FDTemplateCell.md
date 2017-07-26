@@ -1,9 +1,8 @@
-
 ---
 layout:     post
 title:      FDTemplateLayoutCell 源码分析
 category: blog
-description: FDTemplateLayoutCell 源码分析
+description: FDTemplateLayoutCell的源码分析，注重对于缓存的实现。
 ---
 
 # FDTemplateLayoutCell 源码分析
